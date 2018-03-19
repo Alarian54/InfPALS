@@ -1,3 +1,3 @@
 # InfPALS
 
-## Practice repository for InfPALS Version Control workshop.
+## Practice repository for InfPALS Version Control workshop
