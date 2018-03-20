@@ -1,1 +1,1 @@
-Some text
+Some text which will now cause a conflict!
